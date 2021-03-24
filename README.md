@@ -10,7 +10,7 @@
 
 # 清华大学
 
-【报名截止】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)
+【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)
 
 
 
