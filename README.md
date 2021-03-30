@@ -12,6 +12,10 @@
 
 【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)
 
+# 中国科学技术大学
+
+【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
+
 
 
 
