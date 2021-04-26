@@ -20,7 +20,9 @@
 
 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
 
+# 西湖大学
 
+【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
 
 # 中国香港
 
