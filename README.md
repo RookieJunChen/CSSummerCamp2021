@@ -20,6 +20,10 @@
 
 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
 
+# 上海交通大学
+
+【报名截止: 2021.6.30】[上海交通大学密西根学院2022夏令营](https://mp.weixin.qq.com/s?__biz=MzU0ODE1NTQzMQ==&mid=2247499856&idx=3&sn=cfa7ca639a49e1895dc5d411cc173642&chksm=fb41f918cc36700ef5ffef2a9fd3842688f8bf8374c8782d56293f023b31247ab2e52cfedd1b&mpshare=1&scene=23&srcid=0427fbm2JCQTGVzkT8EzRVq3&sharer_sharetime=1619517695963&sharer_shareid=346d3428e68baad3532bdcaa7f6f9dbb#rd)
+
 # 西湖大学
 
 【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
