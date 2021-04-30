@@ -16,6 +16,12 @@
 
 
 
+# 北京大学
+
+【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](https://mp.weixin.qq.com/s?__biz=MzU0ODE1NTQzMQ==&mid=2247499924&idx=1&sn=f39edb328929d8917685529125d4f93a&chksm=fb41f9dccc3670ca73eabde6289d0cc3b0f145bcd7007b3cd5877f641ae6f65ae86d1aa5faa0&mpshare=1&scene=23&srcid=0430qaMUMf9uYmyTsw1lXHej&sharer_sharetime=1619753710708&sharer_shareid=346d3428e68baad3532bdcaa7f6f9dbb#rd)
+
+
+
 # 中国科学技术大学
 
 【报名截止: 2021.6.30】[2021年中国科学技术大学“优秀大学生夏令营”](https://mp.weixin.qq.com/s/q_62H54Ue1dr3x_i_60hJg)  
