@@ -22,6 +22,13 @@
 
 
 
+
+# 南京大学
+
+【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)
+
+
+
 # 中国科学技术大学
 
 【报名截止: 2021.6.30】[2021年中国科学技术大学“优秀大学生夏令营”](https://mp.weixin.qq.com/s/q_62H54Ue1dr3x_i_60hJg)  
