@@ -55,6 +55,12 @@
 
 
 
+# 兰州大学
+
+【报名截止: 2021.5.30】[兰州大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://xxxy.lzu.edu.cn/tongzhigonggao/2021/0428/171601.html)
+
+
+
 # 中国香港
 
 【报名截止: 2021.4.30】[香港中文大學計算機科學與工程系](https://www.cse.cuhk.edu.hk/admission/mphil-phd-in-computer-science-and-engineering/early-admission/)
