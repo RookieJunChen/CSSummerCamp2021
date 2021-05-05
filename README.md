@@ -61,6 +61,12 @@
 
 
 
+# 上海科技大学
+
+【报名截止: 2021.6.20】[上海科技大学信息科学与技术学院  2021年优秀大学生夏令营报名通知](https://sist.shanghaitech.edu.cn/2021/0430/c7339a63390/page.htm)
+
+
+
 # 中国香港
 
 【报名截止: 2021.4.30】[香港中文大學計算機科學與工程系](https://www.cse.cuhk.edu.hk/admission/mphil-phd-in-computer-science-and-engineering/early-admission/)
