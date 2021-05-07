@@ -71,7 +71,11 @@
 
 【报名截止: 2021.4.30】[香港中文大學計算機科學與工程系](https://www.cse.cuhk.edu.hk/admission/mphil-phd-in-computer-science-and-engineering/early-admission/)
 
+【报名截止: 2021.5.1】[香港大学计算机科学系提前批](https://i.cs.hku.hk/~gradappl/chinese.html)
 
+【报名截止: 2021.5.16】[香港中文大学招生夏令营](http://hkpfs.erg.cuhk.edu.hk/)
+
+【报名截止: 2021.5.20】[香港大学计算机科学研究实习项目](https://www.cs.hku.hk/rintern/)
 
 # 计算机保研交流群
 
