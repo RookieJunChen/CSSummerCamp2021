@@ -10,7 +10,7 @@
 
 # 清华大学
 
-【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)
+~~【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)~~
 
 【报名截止: 2021.5.27】[清华大学交叉信息研究院](https://mp.weixin.qq.com/s?__biz=MzAxMDg0OTUxNw==&mid=2650704246&idx=1&sn=bf64888fab548692893652f1d18bbaf4&chksm=834034f4b437bde2d4d99092db02b79fbe3910c7458ea21631b2a5f3d44d197cfffc8d4f1431&mpshare=1&scene=23&srcid=0423LyoFEF6kDHrsde8bDQAM&sharer_sharetime=1619169820730&sharer_shareid=65ac75bddc052584c99b39fcfe96cd3d#rd)
 
@@ -69,9 +69,9 @@
 
 # 中国香港
 
-【报名截止: 2021.4.30】[香港中文大學計算機科學與工程系](https://www.cse.cuhk.edu.hk/admission/mphil-phd-in-computer-science-and-engineering/early-admission/)
+~~【报名截止: 2021.4.30】[香港中文大學計算機科學與工程系](https://www.cse.cuhk.edu.hk/admission/mphil-phd-in-computer-science-and-engineering/early-admission/)~~
 
-【报名截止: 2021.5.1】[香港大学计算机科学系提前批](https://i.cs.hku.hk/~gradappl/chinese.html)
+~~【报名截止: 2021.5.1】[香港大学计算机科学系提前批](https://i.cs.hku.hk/~gradappl/chinese.html)~~
 
 【报名截止: 2021.5.16】[香港中文大学招生夏令营](http://hkpfs.erg.cuhk.edu.hk/)
 
