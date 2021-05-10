@@ -6,6 +6,10 @@
 
 
 
+# 哈尔滨工业大学
+
+【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
+
 
 
 # 清华大学
@@ -26,7 +30,7 @@
 
 【报名截止: 2021.6.15】[复旦大学类脑智能科学与技术研究院2021年大学生夏令营活动通知](https://mp.weixin.qq.com/s?__biz=Mzk0MDE3MTc3Ng==&mid=2247491116&idx=2&sn=58885bd07b12468bd1271a2d27a727ca&chksm=c2e4e943f59360557730ea811d0138431e02e12e3fc020f1312a6c1cf6db1de39142ab799b28&mpshare=1&scene=23&srcid=0509vroyIixVqQIQW5YZc3tc&sharer_sharetime=1620559076286&sharer_shareid=5e6ec069dfe9510d48dc3517def694e0#rd)
 
-
+【报名截止: 2021.6.15】[复旦大学计算机科学技术学院2021年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/HqjfwbjPLT72QVhxFafhKg)
 
 
 # 南京大学
