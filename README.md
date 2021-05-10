@@ -5,6 +5,14 @@
 ​	另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/richardodliu/CS-BAOYAN)
 
 
+
+# 哈尔滨工业大学
+
+【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
+
+
+
+
 # 清华大学
 
 ~~【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)~~
@@ -53,9 +61,6 @@
 【报名截止: 2021.5.31】[中国人民大学信息学院“2021年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2170)
 
 
-# 哈尔滨工业大学
-
-【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
 
 # 西湖大学
 
