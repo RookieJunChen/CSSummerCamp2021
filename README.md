@@ -65,6 +65,13 @@
 
 
 
+# 华东师范大学
+【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
+
+【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
+
+
+
 # 西湖大学
 
 【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
