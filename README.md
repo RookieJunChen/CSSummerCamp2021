@@ -6,9 +6,11 @@
 
 
 
-# 哈尔滨工业大学
+# 华东师范大学
 
-【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
+【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
+
+【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
 
 
 
@@ -65,10 +67,11 @@
 
 
 
-# 华东师范大学
-【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
+# 哈尔滨工业大学
 
-【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
+【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
+
+
 
 
 
