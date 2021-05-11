@@ -32,7 +32,10 @@
 【报名截止: 2021.6.15】[复旦大学类脑智能科学与技术研究院2021年大学生夏令营活动通知](https://mp.weixin.qq.com/s?__biz=Mzk0MDE3MTc3Ng==&mid=2247491116&idx=2&sn=58885bd07b12468bd1271a2d27a727ca&chksm=c2e4e943f59360557730ea811d0138431e02e12e3fc020f1312a6c1cf6db1de39142ab799b28&mpshare=1&scene=23&srcid=0509vroyIixVqQIQW5YZc3tc&sharer_sharetime=1620559076286&sharer_shareid=5e6ec069dfe9510d48dc3517def694e0#rd)
 
 【报名截止: 2021.6.15】[复旦大学计算机科学技术学院2021年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/HqjfwbjPLT72QVhxFafhKg)
+
 【报名截止: 2021.6.15】[复旦大学工程与应用技术研究院2021年全国优秀大学生夏令营活动通知](http://faet.fudan.edu.cn/9e/5b/c13543a302683/page.htm)
+
+
 
 # 南京大学
 
