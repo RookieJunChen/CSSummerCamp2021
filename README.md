@@ -67,6 +67,8 @@
 
 【报名截止: 2021.5.31】[中国人民大学信息学院“2021年优秀大学生夏令营”招生简章](http://info.ruc.edu.cn/notice_convert_detail.php?id=2170)
 
+【报名截止: 2021.6.20】[人大高瓴人工智能学院  2021年优秀大学生夏令营招生简章](http://ai.ruc.edu.cn/newslist/notice/20210513001.html)
+
 
 
 # 哈尔滨工业大学
