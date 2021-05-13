@@ -71,6 +71,14 @@
 
 
 
+# 中国科学院大学
+
+【报名截止: 2021.6.30】[中国科学院自动化研究所2021年“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202105/t20210513_6013089.html)
+
+
+
+
+
 # 哈尔滨工业大学
 
 【报名截止: 2021.5.17】[哈工大SCIR现面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650801536&idx=1&sn=38ecd4727437d196e5cb97cc3272992d&chksm=8cb8906bbbcf197d3eba093084c0e39f5da289d94b982386b8f3bba0d20c95407b9940c15b40&mpshare=1&scene=23&srcid=0510JxZ4QrsvVwpUGFGt1RdG&sharer_sharetime=1620628465477&sharer_shareid=c6727a526c6734bb3242747e314c434b#rd)
