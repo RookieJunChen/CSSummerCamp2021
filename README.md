@@ -6,15 +6,6 @@
 
 
 
-# 华东师范大学
-
-【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
-
-【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
-
-
-
-
 # 清华大学
 
 ~~【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)~~
@@ -26,6 +17,22 @@
 # 北京大学
 
 【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1188)
+
+
+
+
+# 南京大学
+
+【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)
+
+【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)
+
+
+
+# 上海交通大学
+
+【报名截止: 2021.6.25】[上海交通大学密西根学院2022夏令营](https://mp.weixin.qq.com/s?__biz=MzU0ODE1NTQzMQ==&mid=2247499856&idx=3&sn=cfa7ca639a49e1895dc5d411cc173642&chksm=fb41f918cc36700ef5ffef2a9fd3842688f8bf8374c8782d56293f023b31247ab2e52cfedd1b&mpshare=1&scene=23&srcid=0427fbm2JCQTGVzkT8EzRVq3&sharer_sharetime=1619517695963&sharer_shareid=346d3428e68baad3532bdcaa7f6f9dbb#rd)
+
 
 
 
@@ -41,25 +48,11 @@
 
 
 
-# 南京大学
-
-【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)
-
-【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)
-
-
-
 # 中国科学技术大学
 
 【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)  
 
 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
-
-
-
-# 上海交通大学
-
-【报名截止: 2021.6.25】[上海交通大学密西根学院2022夏令营](https://mp.weixin.qq.com/s?__biz=MzU0ODE1NTQzMQ==&mid=2247499856&idx=3&sn=cfa7ca639a49e1895dc5d411cc173642&chksm=fb41f918cc36700ef5ffef2a9fd3842688f8bf8374c8782d56293f023b31247ab2e52cfedd1b&mpshare=1&scene=23&srcid=0427fbm2JCQTGVzkT8EzRVq3&sharer_sharetime=1619517695963&sharer_shareid=346d3428e68baad3532bdcaa7f6f9dbb#rd)
 
 
 
@@ -85,6 +78,13 @@
 
 【第一轮报名截止至5月31日】[哈工大海量数据计算研究中心面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzU0MzYzNDQ2Ng==&mid=2247484892&idx=1&sn=733445fddcf6fa9372d647d14590ccee&chksm=fb092091cc7ea9877072aa02107d5984475f5ce5260d2ae9f044d315802fbfef20289d6a38a5&mpshare=1&scene=23&srcid=0512SujeJ9Sue1NEqnX0EzpB&sharer_sharetime=1620780091771&sharer_shareid=f11b613486ea49d65c04bc821bbd6df1#rd)
 
+
+
+# 华东师范大学
+
+【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
+
+【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
 
 
 # 西湖大学
