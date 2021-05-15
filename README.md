@@ -70,7 +70,7 @@
 
 【报名截止: 2021.6.30】[中国科学院自动化研究所2021年“人工智能”大学生暑期学校招生通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202105/t20210513_6013089.html)
 
-
+【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
 
 
