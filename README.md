@@ -14,6 +14,8 @@
 
 【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
 
+【报名截止: 2021.5.28】[清华大学软件学院2021年优秀大学生夏令营报名通知](https://www.thss.tsinghua.edu.cn/article/5ncK5Z9wH9)
+
 
 
 # 北京大学
