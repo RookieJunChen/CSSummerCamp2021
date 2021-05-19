@@ -94,6 +94,18 @@
 
 
 
+# 厦门大学
+
+【报名截止: 2021.6.10】[2021年厦门大学信息学院优秀大学生夏令营招生简章](https://informatics.xmu.edu.cn/info/1050/16811.htm)
+
+
+
+# 南开大学
+
+【报名截止: 2021.6.25】[南开大学“e入计网”优秀大学生云端夏令营的通知](https://cc.nankai.edu.cn/2021/0518/c13297a364548/page.htm)
+
+
+
 # 西湖大学
 
 【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
