@@ -96,6 +96,8 @@
 
 【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
 
+# 北京师范大学
+【报名截止: 2021.6.20】[北京师范大学人工智能学院2021年优秀大学生夏令营活动通知](https://ai.bnu.edu.cn/tzgg/114402.html)
 
 
 # 武汉大学
