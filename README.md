@@ -78,7 +78,9 @@
 
 【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
+# 西安交通大学
 
+【报名截止: 2021.6.20】[软件学院2021年优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1043/2463.htm)
 
 # 哈尔滨工业大学
 
