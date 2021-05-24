@@ -78,6 +78,8 @@
 
 【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
+【报名截止: 2021.6.13】[中国科学院计算技术研究所2021年“计算未来”全国大学生计算技术暑期研修班招生简章](http://www.ict.cas.cn/xwgg/tzgg/202105/t20210524_6037393.html)
+
 
 
 # 西安交通大学
@@ -100,13 +102,23 @@
 
 【报名截止: 2021.6.20】[“可信人工智能优秀大学生夏令营”活动通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021042020179966125100)
 
+
+
 # 北京师范大学
+
 【报名截止: 2021.6.20】[北京师范大学人工智能学院2021年优秀大学生夏令营活动通知](https://ai.bnu.edu.cn/tzgg/114402.html)
+
 
 
 # 武汉大学
 
 【报名截止:无截止日期】[武汉大学2021年优秀大学生夏令营活动报名须知](https://gs.whu.edu.cn/info/1056/8371.htm)
+
+
+
+# 东南大学
+
+【报名截止: 2021.7.20】[PALM实验室2022年入学研究生报名须知](http://palm.seu.edu.cn/application.html)
 
 
 
