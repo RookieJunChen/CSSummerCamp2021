@@ -84,6 +84,8 @@
 
 【报名截止: 2021.6.30】[中国科学院深圳先进技术研究院2021年数字所“优秀大学生夏令营”招生简章](http://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=false&contentId=1341)
 
+【报名截止: 2021.6.30】[中国科学院大学2021年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202105/t20210525_6038874.html)
+
 
 
 # 西安交通大学
