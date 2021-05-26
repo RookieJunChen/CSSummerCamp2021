@@ -154,6 +154,12 @@
 
 
 
+# 重庆大学
+
+【报名截止: 2021.10.7】[热忱欢迎全国2022届优秀本科毕业生免试攻读重庆大学研究生](http://yz.cqu.edu.cn/news/2021-05/1720.html)
+
+
+
 # 西湖大学
 
 【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
