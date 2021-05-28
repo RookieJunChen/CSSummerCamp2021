@@ -12,7 +12,7 @@
 
 ~~【报名截止: 2021.4.15】[清华大学自动化系智能与网络化系统研究中心2021年招生夏令营](https://mp.weixin.qq.com/s/xyoqcOVdxctfmCUKGiPGwg)~~
 
-【报名截止: 2021.5.27】[清华大学交叉信息研究院](https://mp.weixin.qq.com/s?__biz=MzAxMDg0OTUxNw==&mid=2650704246&idx=1&sn=bf64888fab548692893652f1d18bbaf4&chksm=834034f4b437bde2d4d99092db02b79fbe3910c7458ea21631b2a5f3d44d197cfffc8d4f1431&mpshare=1&scene=23&srcid=0423LyoFEF6kDHrsde8bDQAM&sharer_sharetime=1619169820730&sharer_shareid=65ac75bddc052584c99b39fcfe96cd3d#rd)
+~~【报名截止: 2021.5.27】[清华大学交叉信息研究院](https://mp.weixin.qq.com/s?__biz=MzAxMDg0OTUxNw==&mid=2650704246&idx=1&sn=bf64888fab548692893652f1d18bbaf4&chksm=834034f4b437bde2d4d99092db02b79fbe3910c7458ea21631b2a5f3d44d197cfffc8d4f1431&mpshare=1&scene=23&srcid=0423LyoFEF6kDHrsde8bDQAM&sharer_sharetime=1619169820730&sharer_shareid=65ac75bddc052584c99b39fcfe96cd3d#rd)~~
 
 【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
 
