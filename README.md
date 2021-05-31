@@ -48,6 +48,8 @@
 
 【报名截止: 2021.6.25】[上海交通大学密西根学院2022夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2021-05-11/124399/)
 
+【报名截止: 2021.6.28】[上海交通大学电子信息与电气工程学院2022级研究生优才夏令营通知](https://mp.weixin.qq.com/s?__biz=MzU5MTE1MDg4OQ==&mid=2247492870&idx=1&sn=e251e523d12fa5e1eed47b96c368b0c0&chksm=fe31cf40c9464656825d1fecef9a71f756143c34be72cc4d31b90155eb649359fd4d0497b25b&mpshare=1&scene=23&srcid=0531Lxem2QT4IOXaVI1Pnwsq&sharer_sharetime=1622450396860&sharer_shareid=86516ada3076479fca7f4f9b084710e2#rd)
+
 
 # 复旦大学
 
