@@ -53,6 +53,7 @@
 【报名截止: 2021.6.28】[上海交通大学“2021软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=19207)
 
 
+
 # 复旦大学
 
 【报名截止: 2021.6.15】[复旦大学类脑智能科学与技术研究院2021年大学生夏令营活动通知](https://mp.weixin.qq.com/s?__biz=Mzk0MDE3MTc3Ng==&mid=2247491116&idx=2&sn=58885bd07b12468bd1271a2d27a727ca&chksm=c2e4e943f59360557730ea811d0138431e02e12e3fc020f1312a6c1cf6db1de39142ab799b28&mpshare=1&scene=23&srcid=0509vroyIixVqQIQW5YZc3tc&sharer_sharetime=1620559076286&sharer_shareid=5e6ec069dfe9510d48dc3517def694e0#rd)
@@ -113,6 +114,8 @@
 【报名截止: 2021.6.15】[电信学部计算机科学与技术学院2021年全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/2589.htm)
 
 【报名截止: 2021.6.15】[电信学部网络空间安全学院2021年全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1581.htm)
+
+【报名截止: 2021.7.5】[电子与信息学部人工智能学院2021年全国优秀大学生夏令营通知](http://www.aiar.xjtu.edu.cn/info/1005/2011.htm)
 
 
 
@@ -178,9 +181,12 @@
 
 【报名截止: 2021.6.20】[中山大学计算机学院 2021年优秀大学生夏令营活动报名通知](https://sdcs.sysu.edu.cn/content/5877)
 
+
+
 # 山东大学
 
 【报名截止: 2021.6.20】[网络空间安全学院（研究院）2021年全国优秀大学生暑期夏令营公告](https://cst.qd.sdu.edu.cn/info/1023/1498.htm)
+
 
 
 # 中南大学
