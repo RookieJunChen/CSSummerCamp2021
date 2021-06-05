@@ -153,6 +153,8 @@
 
 【报名截止:无截止日期】[武汉大学2021年优秀大学生夏令营活动报名须知](https://gs.whu.edu.cn/info/1056/8371.htm)
 
+【报名截止: 2021.6.20】[国家网络安全学院2021年优秀大学生夏令营活动实施方案](http://cse.whu.edu.cn/index.php?s=/home/xwzx/detail/id/704.html)
+
 
 
 # 东南大学
