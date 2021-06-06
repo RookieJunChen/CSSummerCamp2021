@@ -183,6 +183,10 @@
 
 【报名截止: 2021.6.20】[中山大学计算机学院 2021年优秀大学生夏令营活动报名通知](https://sdcs.sysu.edu.cn/content/5877)
 
+【报名截止: 2021.6.25】[中山大学软件工程学院2021年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/mdFj8yeEFfJhZqTww_9BlA)
+
+【报名截止: 2021.6.25】[中山大学人工智能学院2021年全国优秀大学生夏令营报名通知](http://sai.sysu.edu.cn/teach/graduate/1389960.htm)
+
 
 
 # 山东大学
