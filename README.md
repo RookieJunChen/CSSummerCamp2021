@@ -200,6 +200,10 @@
 
 【报名截止: 2021.6.18】[关于举办“中南大学2021年优秀大学生暑期夏令营”活动的通知](http://gra.csu.edu.cn/wjtzxq136329_1_2.html)
 
+【报名截止: 2021.6.25】[中山大学软件工程学院2021年全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s/mdFj8yeEFfJhZqTww_9BlA)
+
+【报名截止: 2021.6.25】[中山大学人工智能学院2021年全国优秀大学生夏令营报名通知](http://sai.sysu.edu.cn/teach/graduate/1389960.htm)
+
 
 
 # 吉林大学
