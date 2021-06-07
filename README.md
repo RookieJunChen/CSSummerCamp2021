@@ -133,6 +133,11 @@
 
 【报名截止: 2021.6.30】[哈尔滨工业大学（深圳）2022年全国优秀大学生学术夏令营通知](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=1d4218d70051498da67b64d05ef0749a&xxlm=04)
 
+# 北京理工大学
+
+【报名截止: 2021.6.26】[2021年北京理工大学计算机学院暑期学术夏令营通知](https://cs.bit.edu.cn/tzgg/76a89530554143e2ae855df517e97f2a.htm)
+
+
 # 华东师范大学
 
 【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
