@@ -16,11 +16,13 @@
 
 ~~【报名截止: 2021.5.28】[清华大学软件学院2021年优秀大学生夏令营报名通知](https://www.thss.tsinghua.edu.cn/article/5ncK5Z9wH9)~~
 
-【报名截止: 2021.6.7】[清华大学第四届（2021年）“计算法学”夏令营即日起接收报名申请](http://www.law.tsinghua.edu.cn/info/1135/12770.htm)
+~~【报名截止: 2021.6.7】[清华大学第四届（2021年）“计算法学”夏令营即日起接收报名申请](http://www.law.tsinghua.edu.cn/info/1135/12770.htm)~~
 
 【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
 
 【报名截止: 2021.6.15】[清华大学计算机科学与技术系2021年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/hgSSKaVdgTJPWAPQwD9hPA)
+
+【报名截止: 2021.6.16】[清华大学网络研究院2021年全国优秀大学生夏令营预通知](http://www.insc.tsinghua.edu.cn/info/1169/1530.htm)
 
 
 
