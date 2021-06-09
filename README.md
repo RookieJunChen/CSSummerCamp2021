@@ -26,6 +26,8 @@
 
 【报名截止: 2021.6.29】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)
 
+**Tips：**来清深的同学欢迎报名我组，组内氛围好，导师人超级nice，特别上心帮忙推实习，跟虎牙、MSRA、腾讯AI lab、字节、华为的关系都很好，没有复杂考核点击就送，**导师主页**：https://www.sigs.tsinghua.edu.cn/zywu/main.htm
+
 
 
 # 北京大学
