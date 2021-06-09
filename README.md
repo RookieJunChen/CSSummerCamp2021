@@ -131,7 +131,7 @@
 
 ~~【第一轮报名截止至5月31日】[哈工大海量数据计算研究中心面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzU0MzYzNDQ2Ng==&mid=2247484892&idx=1&sn=733445fddcf6fa9372d647d14590ccee&chksm=fb092091cc7ea9877072aa02107d5984475f5ce5260d2ae9f044d315802fbfef20289d6a38a5&mpshare=1&scene=23&srcid=0512SujeJ9Sue1NEqnX0EzpB&sharer_sharetime=1620780091771&sharer_shareid=f11b613486ea49d65c04bc821bbd6df1#rd)~~
 
-【报名截止: 2021.6.30】[哈尔滨工业大学（深圳）2022年全国优秀大学生学术夏令营通知](http://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=1d4218d70051498da67b64d05ef0749a&xxlm=04)
+【报名截止: 2021.6.28】[哈尔滨工业大学（深圳）计算机科学与技术学院 2022年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/2949.htm)
 
 
 
