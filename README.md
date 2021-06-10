@@ -143,6 +143,12 @@
 
 
 
+# 北京邮电大学
+
+【报名截止: 2021.6.25】[北京邮电大学2021年全国优秀大学生暑期夏令营](https://mp.weixin.qq.com/s?__biz=MzA5MTY3MzAxOQ==&mid=2650677395&idx=1&sn=deeded9f0f69ff45fa39a7e9c6c6fd4d&chksm=88725847bf05d15161a1696144f377a1036cf14dc833f46834baa3d9441a6998ca215c0845ec&mpshare=1&scene=23&srcid=0610ALULMz4e3hGZ1PX9pVp6&sharer_sharetime=1623293763624&sharer_shareid=71caa6e1b89a22e91fd84f8f9f6d7fbb#rd)
+
+
+
 # 华东师范大学
 
 【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)
@@ -163,8 +169,6 @@
 
 
 
-
-
 # 武汉大学
 
 【报名截止:2021.6.20】[武汉大学计算机学院2021年优秀大学生夏令营实施细则](http://cs.whu.edu.cn/news_show.aspx?id=1510)
@@ -177,6 +181,7 @@
 
 【报名截止:2021.7.13】[网络空间安全学院2021年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/2261.htm)
 
+【报名截止:2021.6.25】[人工智能与自动化学院“全国优秀大学生暑期夏令营”报名申请](https://mp.weixin.qq.com/s/PfGfRHzWZ77G04IuUuTdZQ)
 
 
 # 东南大学
@@ -194,6 +199,8 @@
 # 四川大学
 
 【报名截止: 2021.6.24】[四川大学计算机学院（软件学院） 2021年优秀大学生暑期云夏令营招生简章](http://cs.scu.edu.cn/info/1247/16002.htm)
+
+【报名截止: 2021.6.22】[四川大学网络空间安全学院2021年优秀大学生暑期云夏令营招生简章](http://ccs.scu.edu.cn/info/1026/2664.htm)
 
 
 
