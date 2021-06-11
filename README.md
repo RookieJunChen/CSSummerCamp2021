@@ -40,7 +40,7 @@
 
 # 南京大学
 
-【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)
+~~【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)~~
 
 【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)
 
@@ -192,7 +192,7 @@
 
 # 厦门大学
 
-【报名截止: 2021.6.10】[2021年厦门大学信息学院优秀大学生夏令营招生简章](https://informatics.xmu.edu.cn/info/1050/16811.htm)
+~~【报名截止: 2021.6.10】[2021年厦门大学信息学院优秀大学生夏令营招生简章](https://informatics.xmu.edu.cn/info/1050/16811.htm)~~
 
 
 
