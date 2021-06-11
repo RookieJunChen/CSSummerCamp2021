@@ -135,6 +135,10 @@
 
 【报名截止: 2021.6.28】[哈尔滨工业大学（深圳）计算机科学与技术学院 2022年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/2949.htm)
 
+# 国防科技大学
+
+【报名截止: 无截止日期】[国防科技大学2021年优秀大学生夏令营活动预告](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1149)
+
 
 
 # 北京理工大学
