@@ -86,6 +86,10 @@
 
 【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)  
 
+【报名截止: 2021.6.30】[2021年第四届大数据科学夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=841)  
+
+【报名截止: 2021.6.30】[第八届（2021年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=839)  
+
 【报名截止: 2021.6.30】[第一届苏州高等研究院夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=828)  
 
 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
