@@ -31,9 +31,9 @@
 
 # 北京大学
 
-【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1188)
+~~【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1188)~~
 
-【报名截止: 2021.6.11】[北京大学信息科学技术学院夏令营](https://eecs.pku.edu.cn/info/1060/11515.htm)
+~~【报名截止: 2021.6.11】[北京大学信息科学技术学院夏令营](https://eecs.pku.edu.cn/info/1060/11515.htm)~~
 
 【报名截止: 2021.7.4】[北京大学信息工程学院关于举办“2021年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/info/1056/2566.htm)
 
