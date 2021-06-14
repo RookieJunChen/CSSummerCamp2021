@@ -112,7 +112,7 @@
 
 【报名截止: 2021.6.20】[2021年中国科学院大学沈阳计算所大学生暑期夏令营](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=52&id=153)
 
-【报名截止: 2021.6.13】[中国科学院计算技术研究所2021年“计算未来”全国大学生计算技术暑期研修班招生简章](http://www.ict.cas.cn/xwgg/tzgg/202105/t20210524_6037393.html)
+~~【报名截止: 2021.6.13】[中国科学院计算技术研究所2021年“计算未来”全国大学生计算技术暑期研修班招生简章](http://www.ict.cas.cn/xwgg/tzgg/202105/t20210524_6037393.html)~~
 
 【报名截止: 2021.6.30】[中国科学院深圳先进技术研究院2021年数字所“优秀大学生夏令营”招生简章](http://szs.siat.ac.cn/#/detail?item=%5Bobject%20Object%5D&list=false&contentId=1341)
 
