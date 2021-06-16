@@ -18,9 +18,9 @@
 
 ~~【报名截止: 2021.6.7】[清华大学第四届（2021年）“计算法学”夏令营即日起接收报名申请](http://www.law.tsinghua.edu.cn/info/1135/12770.htm)~~
 
-【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)
+~~【报名截止: 2021.6.15】[清华大学车辆与运载学院2021年全国优秀大学生暑期夏令营通知](https://mp.weixin.qq.com/s/YO1RNjQiH0_x9LgRH5oWDw)~~
 
-【报名截止: 2021.6.15】[清华大学计算机科学与技术系2021年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/hgSSKaVdgTJPWAPQwD9hPA)
+~~【报名截止: 2021.6.15】[清华大学计算机科学与技术系2021年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/hgSSKaVdgTJPWAPQwD9hPA)~~
 
 【报名截止: 2021.6.16】[清华大学网络研究院2021年全国优秀大学生夏令营预通知](http://www.insc.tsinghua.edu.cn/info/1169/1530.htm)
 
@@ -30,9 +30,9 @@
 
 # 北京大学
 
-【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1188)
+~~【报名截止: 2021.6.11】[北京大学前沿交叉学科研究院夏令营](http://www.aais.pku.edu.cn/tongzhi/shownews.php?id=1188)~~
 
-【报名截止: 2021.6.11】[北京大学信息科学技术学院夏令营](https://eecs.pku.edu.cn/info/1060/11515.htm)
+~~【报名截止: 2021.6.11】[北京大学信息科学技术学院夏令营](https://eecs.pku.edu.cn/info/1060/11515.htm)~~
 
 【报名截止: 2021.7.4】[北京大学信息工程学院关于举办“2021年全国优秀大学生夏令营”的通知](http://www.ece.pku.edu.cn/info/1056/2566.htm)
 
@@ -64,13 +64,13 @@
 
 # 复旦大学
 
-【报名截止: 2021.6.15】[复旦大学类脑智能科学与技术研究院2021年大学生夏令营活动通知](https://mp.weixin.qq.com/s?__biz=Mzk0MDE3MTc3Ng==&mid=2247491116&idx=2&sn=58885bd07b12468bd1271a2d27a727ca&chksm=c2e4e943f59360557730ea811d0138431e02e12e3fc020f1312a6c1cf6db1de39142ab799b28&mpshare=1&scene=23&srcid=0509vroyIixVqQIQW5YZc3tc&sharer_sharetime=1620559076286&sharer_shareid=5e6ec069dfe9510d48dc3517def694e0#rd)
+~~【报名截止: 2021.6.15】[复旦大学类脑智能科学与技术研究院2021年大学生夏令营活动通知](https://mp.weixin.qq.com/s?__biz=Mzk0MDE3MTc3Ng==&mid=2247491116&idx=2&sn=58885bd07b12468bd1271a2d27a727ca&chksm=c2e4e943f59360557730ea811d0138431e02e12e3fc020f1312a6c1cf6db1de39142ab799b28&mpshare=1&scene=23&srcid=0509vroyIixVqQIQW5YZc3tc&sharer_sharetime=1620559076286&sharer_shareid=5e6ec069dfe9510d48dc3517def694e0#rd)~~
 
-【报名截止: 2021.6.15】[复旦大学计算机科学技术学院2021年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/HqjfwbjPLT72QVhxFafhKg)
+~~【报名截止: 2021.6.15】[复旦大学计算机科学技术学院2021年全国优秀大学生夏令营活动通知](https://mp.weixin.qq.com/s/HqjfwbjPLT72QVhxFafhKg)~~
 
-【报名截止: 2021.6.15】[复旦大学工程与应用技术研究院2021年全国优秀大学生夏令营活动通知](http://faet.fudan.edu.cn/9e/5b/c13543a302683/page.htm)
+~~【报名截止: 2021.6.15】[复旦大学工程与应用技术研究院2021年全国优秀大学生夏令营活动通知](http://faet.fudan.edu.cn/9e/5b/c13543a302683/page.htm)~~
 
-【报名截止: 2021.6.15】[复旦大学大数据学院2021年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/a3/2e/c17701a303918/page.htm)
+~~【报名截止: 2021.6.15】[复旦大学大数据学院2021年全国优秀大学生夏令营活动通知](https://sds.fudan.edu.cn/a3/2e/c17701a303918/page.htm)~~
 
 
 
@@ -119,9 +119,9 @@
 
 【报名截止: 2021.6.20】[软件学院2021年优秀大学生夏令营通知](http://se.xjtu.edu.cn/info/1043/2463.htm)
 
-【报名截止: 2021.6.15】[电信学部计算机科学与技术学院2021年全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/2589.htm)
+~~【报名截止: 2021.6.15】[电信学部计算机科学与技术学院2021年全国优秀大学生夏令营通知](http://www.cs.xjtu.edu.cn/info/1233/2589.htm)~~
 
-【报名截止: 2021.6.15】[电信学部网络空间安全学院2021年全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1581.htm)
+~~【报名截止: 2021.6.15】[电信学部网络空间安全学院2021年全国优秀大学生夏令营通知](http://cybersec.xjtu.edu.cn/info/1017/1581.htm)~~
 
 【报名截止: 2021.7.5】[电子与信息学部人工智能学院2021年全国优秀大学生夏令营通知](http://www.aiar.xjtu.edu.cn/info/1005/2011.htm)
 
@@ -258,7 +258,7 @@
 
 # 吉林大学
 
-【报名截止: 2021.6.15】[2021年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1229/13838.htm)
+~~【报名截止: 2021.6.15】[2021年吉林大学计算机科学与技术学院优秀大学生暑期夏令营活动通知](http://ccst.jlu.edu.cn/info/1229/13838.htm)~~
 
 【报名截止: 2021.6.20】[软件学院2021年全国优秀大学生暑期夏令营活动通知](http://csw.jlu.edu.cn/info/1156/4804.htm)
 
@@ -280,19 +280,19 @@
 
 # 北京工业大学
 
-【报名截止：2021.6.15】[北京工业大学信息学部“乘势而上 不负韶华” 2021年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/YH-3Zq1rgfSNg8neYbXt4Q)
+~~【报名截止：2021.6.15】[北京工业大学信息学部“乘势而上 不负韶华” 2021年全国优秀大学生夏令营](https://mp.weixin.qq.com/s/YH-3Zq1rgfSNg8neYbXt4Q)~~
 
 
 
 # 北京交通大学
 
-【报名截止：2021.6.15】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)
+【报名截止：2021.6.22】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)
 
 
 
 # 西湖大学
 
-【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)
+~~【报名截止: 2021.6.14】[西湖大学2021年暑期夏令营公告](https://www.westlake.edu.cn/news_events/westlakenews/zsdt/202104/t20210425_9624.shtml)~~
 
 
 
