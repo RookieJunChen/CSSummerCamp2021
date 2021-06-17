@@ -26,6 +26,8 @@
 
 【报名截止: 2021.6.27】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)
 
+【报名截止: 2021.6.28】[清华大学深圳国际研究生院2021年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0611/c120a24532/page.htm)
+
 
 
 # 北京大学
@@ -90,6 +92,12 @@
 
 【报名截止: 无截止日期】[中科大 MIRA Lab 研究生招生说明](https://miralab.ai/admission/admission_2022/)
 
+【报名截止: 2021.6.30】[2021年第四届大数据科学夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=841)
+
+【报名截止: 2021.6.30】[第八届（2021年）信息科技夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=839)
+
+【报名截止: 2021.6.30】[第八届科学岛大学生夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=813)  
+
 
 
 # 中国人民大学
@@ -113,6 +121,8 @@
 【报名截止: 2021.6.30】[中国科学院大学2021年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202105/t20210525_6038874.html)
 
 【报名截止: 2021.6.27】[中国科学院信息工程研究所2021年“网络空间安全技术”全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s?__biz=MzAxMDMzNTc0NQ==&mid=2247485342&idx=1&sn=a99e3da5f85ae62b855b940301d62321&chksm=9b50a4f0ac272de6e7ad54fab3643ea6b9adf28011253afbdb1449e4ddc6b7d167f41c1ffae2&mpshare=1&scene=23&srcid=0526PaQyZVS4UiSt66Wd2dna&sharer_sharetime=1622022834774&sharer_shareid=3e6150ce198bbc0a040fcb9375f5e721#rd)
+
+【报名截止: 2021.7.11】[中国科学院软件研究所2021年全国大学生“软件与网络”夏令营通知](http://www.is.cas.cn/yjsjy2016/zsxx2016/202106/t20210611_6082351.html)
 
 
 
@@ -138,6 +148,12 @@
 
 
 
+#  国防科技大学
+
+【报名截止: 无截止日期】[国防科技大学2021年优秀大学生夏令营活动预告](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1149)
+
+
+
 # 北京理工大学
 
 【报名截止: 2021.6.26】[2021年北京理工大学计算机学院暑期学术夏令营通知](https://cs.bit.edu.cn/tzgg/76a89530554143e2ae855df517e97f2a.htm)
@@ -147,6 +163,10 @@
 # 北京邮电大学
 
 【报名截止: 2021.6.25】[北京邮电大学2021年全国优秀大学生暑期夏令营](https://mp.weixin.qq.com/s?__biz=MzA5MTY3MzAxOQ==&mid=2650677395&idx=1&sn=deeded9f0f69ff45fa39a7e9c6c6fd4d&chksm=88725847bf05d15161a1696144f377a1036cf14dc833f46834baa3d9441a6998ca215c0845ec&mpshare=1&scene=23&srcid=0610ALULMz4e3hGZ1PX9pVp6&sharer_sharetime=1623293763624&sharer_shareid=71caa6e1b89a22e91fd84f8f9f6d7fbb#rd)
+
+【报名截止：2021.6.25】[北京邮电大学计算机学院（国家示范性软件学院）2021年优秀大学生夏令营活动通知](https://scs.bupt.edu.cn/info/1020/2487.htm)
+
+【报名截止：2021.6.25】[北京邮电大学网络空间安全学院2021年全国优秀大学生夏令营招生通知](https://scss.bupt.edu.cn/info/1055/4171.htm)
 
 
 
@@ -168,6 +188,10 @@
 
 【报名截止: 2021.6.21】[同济大学2021年优秀学生暑期学校活动通知（持续更新）](https://yz.tongji.edu.cn/info/1010/2280.htm)
 
+【报名截止: 2021.6.14】[同济大学软件学院2021年优秀学生暑期学校活动通知](https://sse.tongji.edu.cn/Data/View/4575)
+
+【报名截止: 2021.6.21】[2021年同济大学电子与信息工程学院优秀学生暑期学校活动通知](https://see.tongji.edu.cn/info/1147/9013.htm)
+
 
 
 # 武汉大学
@@ -183,7 +207,6 @@
 【报名截止:2021.7.13】[网络空间安全学院2021年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/2261.htm)
 
 【报名截止:2021.6.25】[人工智能与自动化学院“全国优秀大学生暑期夏令营”报名申请](https://mp.weixin.qq.com/s/PfGfRHzWZ77G04IuUuTdZQ)
-
 
 # 东南大学
 
@@ -319,9 +342,18 @@
 
 【报名截止: 2021.6.21】[关于举办2021年中国海洋大学信息科学与工程学部“优秀大学生夏令营”活动的通知](http://it.ouc.edu.cn/2021/0524/c16066a324384/page.htm)
 
+
+
+# 华中师范大学
+
+【报名截止: 2021.6.25】[华中师范大学人工智能教育学部“人工智能教育应用”创意课堂暨暑期夏令营招员通知](http://foaie.ccnu.edu.cn/info/1008/4374.htm)
+
+
+
 # 南方科技大学
 
 【报名截止：2021.6.20】[南方科技大学计算机科学与工程系2021年优秀大学生夏令营报名通知](http://cse.sustech.edu.cn/cn/news/view/id/847)
+
 
 
 # 上海科技大学
