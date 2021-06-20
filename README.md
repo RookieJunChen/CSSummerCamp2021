@@ -48,13 +48,13 @@
 
 ~~【报名截止: 2021.6.10】[LAMDA招收 2022年秋季入学研究生说明](http://www.lamda.nju.edu.cn/recruit-2022/recruit-2022.html)~~
 
-【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)
+~~【报名截止: 2021.6.20】[南京大学计算机科学与技术系2021年本科生开放日报名通知](http://csopenday.nju.edu.cn/notifications/15)~~
 
-【报名截止: 2021.6.20】[人工智能学院2021年本科生开放日报名通知](https://ai.nju.edu.cn/f2/15/c17810a520725/page.htm)
+~~【报名截止: 2021.6.20】[人工智能学院2021年本科生开放日报名通知](https://ai.nju.edu.cn/f2/15/c17810a520725/page.htm)~~
 
-【报名截止: 2021.6.20】[软件所招收 2021/2022 年秋季入学研究生说明](http://ics.nju.edu.cn/recruit/)
+~~【报名截止: 2021.6.20】[软件所招收 2021/2022 年秋季入学研究生说明](http://ics.nju.edu.cn/recruit/)~~
 
-【报名截止: 2021.6.20】[南京大学软件学院2021年优秀大学生夏令营通知](https://software.nju.edu.cn//tzgg/20210526/i200729.html)
+~~【报名截止: 2021.6.20】[南京大学软件学院2021年优秀大学生夏令营通知](https://software.nju.edu.cn//tzgg/20210526/i200729.html)~~
 
 
 
@@ -90,7 +90,7 @@
 
 # 中国科学技术大学
 
-【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)  
+~~【报名截止: 2021.6.20】[2021年第八届计算机科学暑期夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=811)~~
 
 【报名截止: 2021.6.30】[第一届苏州高等研究院夏令营报名通知](https://xly.ustc.edu.cn/news.php?newsid=828)  
 
