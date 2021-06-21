@@ -22,7 +22,7 @@
 
 ~~【报名截止: 2021.6.15】[清华大学计算机科学与技术系2021年全国优秀大学生夏令营预通知](https://mp.weixin.qq.com/s/hgSSKaVdgTJPWAPQwD9hPA)~~
 
-【报名截止: 2021.6.16】[清华大学网络研究院2021年全国优秀大学生夏令营预通知](http://www.insc.tsinghua.edu.cn/info/1169/1530.htm)
+~~【报名截止: 2021.6.16】[清华大学网络研究院2021年全国优秀大学生夏令营预通知](http://www.insc.tsinghua.edu.cn/info/1169/1530.htm)~~
 
 【报名截止: 2021.6.27】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)
 
