@@ -30,7 +30,7 @@
 
 【报名截止: 2021.6.29】[清华大学深圳国际研究生院2021年大数据项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0612/c120a24533/page.htm)
 
-【报名截止: 2021.6.28】[清华伯克利2021年数据科学项目优秀大学生夏令营报名通知](https://www.tbsi.edu.cn/index.php?s=/cms/1741.html)
+~~【报名截止: 2021.6.23】[清华伯克利2021年数据科学项目优秀大学生夏令营报名通知](https://www.tbsi.edu.cn/index.php?s=/cms/1741.html)~~
 
 
 
@@ -248,7 +248,7 @@
 
 【报名截止: 2021.6.24】[四川大学计算机学院（软件学院） 2021年优秀大学生暑期云夏令营招生简章](http://cs.scu.edu.cn/info/1247/16002.htm)
 
-【报名截止: 2021.6.22】[四川大学网络空间安全学院2021年优秀大学生暑期云夏令营招生简章](http://ccs.scu.edu.cn/info/1026/2664.htm)
+~~【报名截止: 2021.6.22】[四川大学网络空间安全学院2021年优秀大学生暑期云夏令营招生简章](http://ccs.scu.edu.cn/info/1026/2664.htm)~~
 
 
 
@@ -300,7 +300,7 @@
 
 # 湖南大学
 
-【报名截止：2021.6.23】[湖南大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11077.htm)
+~~【报名截止：2021.6.23】[湖南大学信息科学与工程学院2021年优秀大学生暑期夏令营活动通知](http://csee.hnu.edu.cn/info/1062/11077.htm)~~
 
 
 
@@ -316,7 +316,7 @@
 
 # 东北大学
 
-【报名截止: 2021.6.22】[关于举办东北大学计算机科学与工程学院2021年优秀大学生学术夏令营活动的通知](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650192064&idx=1&sn=6c87ea02c843b129b3232fa6b47d1161&chksm=8f7a7cc0b80df5d6e24aae8d7f283946c31249a3566f755f645425c7a24d59d2f90e9d5652d8&mpshare=1&scene=23&srcid=0603mkBqPgimWOpbPEARUhuJ&sharer_sharetime=1622712852605&sharer_shareid=7773d20f2d25cae05965fce1098c645b#rd)
+~~【报名截止: 2021.6.22】[关于举办东北大学计算机科学与工程学院2021年优秀大学生学术夏令营活动的通知](https://mp.weixin.qq.com/s?__biz=MzIwOTEzOTA1NQ==&mid=2650192064&idx=1&sn=6c87ea02c843b129b3232fa6b47d1161&chksm=8f7a7cc0b80df5d6e24aae8d7f283946c31249a3566f755f645425c7a24d59d2f90e9d5652d8&mpshare=1&scene=23&srcid=0603mkBqPgimWOpbPEARUhuJ&sharer_sharetime=1622712852605&sharer_shareid=7773d20f2d25cae05965fce1098c645b#rd)~~
 
 
 
@@ -334,7 +334,7 @@
 
 # 北京交通大学
 
-【报名截止：2021.6.22】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)
+~~【报名截止：2021.6.22】[2021年北京交通大学软件学院暑期夏令营活动及校内选拔活动方案](http://sse.bjtu.edu.cn/cms/item/827.html)~~
 
 
 
