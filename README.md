@@ -24,7 +24,7 @@
 
 ~~【报名截止: 2021.6.16】[清华大学网络研究院2021年全国优秀大学生夏令营预通知](http://www.insc.tsinghua.edu.cn/info/1169/1530.htm)~~
 
-【报名截止: 2021.6.27】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)
+~~【报名截止: 2021.6.27】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)~~
 
 【报名截止: 2021.6.28】[清华大学深圳国际研究生院2021年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0611/c120a24532/page.htm)
 
@@ -84,7 +84,7 @@
 
 【报名截止: 2021.7.1】[浙江大学计算机学院招收2021年暑期实习生计划](http://www.cs.zju.edu.cn/csen/2021/0526/c27011a2378333/page.htm)
 
-【报名截止: 2021.6.27】[软件学院2021年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2021/0616/c32178a2395253/page.htm)
+~~【报名截止: 2021.6.27】[软件学院2021年优秀大学生夏令营活动的通知](http://www.cst.zju.edu.cn/2021/0616/c32178a2395253/page.htm)~~
 
 
 
@@ -124,7 +124,7 @@
 
 【报名截止: 2021.6.30】[中国科学院大学2021年全国大学生“网络与计算”夏令营通知](http://www.cnic.cas.cn/yjsjy/tzgg/202105/t20210525_6038874.html)
 
-【报名截止: 2021.6.27】[中国科学院信息工程研究所2021年“网络空间安全技术”全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s?__biz=MzAxMDMzNTc0NQ==&mid=2247485342&idx=1&sn=a99e3da5f85ae62b855b940301d62321&chksm=9b50a4f0ac272de6e7ad54fab3643ea6b9adf28011253afbdb1449e4ddc6b7d167f41c1ffae2&mpshare=1&scene=23&srcid=0526PaQyZVS4UiSt66Wd2dna&sharer_sharetime=1622022834774&sharer_shareid=3e6150ce198bbc0a040fcb9375f5e721#rd)
+~~【报名截止: 2021.6.27】[中国科学院信息工程研究所2021年“网络空间安全技术”全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s?__biz=MzAxMDMzNTc0NQ==&mid=2247485342&idx=1&sn=a99e3da5f85ae62b855b940301d62321&chksm=9b50a4f0ac272de6e7ad54fab3643ea6b9adf28011253afbdb1449e4ddc6b7d167f41c1ffae2&mpshare=1&scene=23&srcid=0526PaQyZVS4UiSt66Wd2dna&sharer_sharetime=1622022834774&sharer_shareid=3e6150ce198bbc0a040fcb9375f5e721#rd)~~
 
 【报名截止: 2021.7.11】[中国科学院软件研究所2021年全国大学生“软件与网络”夏令营通知](http://www.is.cas.cn/yjsjy2016/zsxx2016/202106/t20210611_6082351.html)
 
@@ -266,9 +266,9 @@
 
 # 天津大学
 
-【报名截止: 2021.6.27】[天津大学智能与计算学部2022级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/3339.htm)
+~~【报名截止: 2021.6.27】[天津大学智能与计算学部2022级研究生招生夏令营活动通知](http://cic.tju.edu.cn/info/1041/3339.htm)~~
 
-【报名截止: 2021.6.27】[新媒体学院2022级研究生招生夏令营活动通知](http://snmc.tju.edu.cn/info/1120/1515.htm)
+~~【报名截止: 2021.6.27】[新媒体学院2022级研究生招生夏令营活动通知](http://snmc.tju.edu.cn/info/1120/1515.htm)~~
 
 
 
@@ -382,7 +382,7 @@
 
 # 西北工业大学
 
-【报名截止: 2021.6.27】[2021年西北工业大学计算机学院全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/9726.htm)
+~~【报名截止: 2021.6.27】[2021年西北工业大学计算机学院全国优秀大学生暑期夏令营招生简章](https://jsj.nwpu.edu.cn/info/1599/9726.htm)~~
 
 
 
