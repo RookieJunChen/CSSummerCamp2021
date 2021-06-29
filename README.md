@@ -26,7 +26,7 @@
 
 ~~【报名截止: 2021.6.27】[清华大学深圳国际研究生院2021年计算机科学与技术学科优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0608/c120a24498/page.htm)~~
 
-【报名截止: 2021.6.28】[清华大学深圳国际研究生院2021年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0611/c120a24532/page.htm)
+~~【报名截止: 2021.6.28】[清华大学深圳国际研究生院2021年人工智能项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0611/c120a24532/page.htm)~~
 
 【报名截止: 2021.6.29】[清华大学深圳国际研究生院2021年大数据项目优秀大学生夏令营报名通知](https://www.sigs.tsinghua.edu.cn/2021/0612/c120a24533/page.htm)
 
@@ -62,9 +62,9 @@
 
 ~~【报名截止: 2021.6.25】[上海交通大学密西根学院2022夏令营](https://www.ji.sjtu.edu.cn/cn/prospective-students-zh/2021-05-11/124399/)~~
 
-【报名截止: 2021.6.28】[上海交通大学电子信息与电气工程学院2022级研究生优才夏令营通知](https://mp.weixin.qq.com/s?__biz=MzU5MTE1MDg4OQ==&mid=2247492870&idx=1&sn=e251e523d12fa5e1eed47b96c368b0c0&chksm=fe31cf40c9464656825d1fecef9a71f756143c34be72cc4d31b90155eb649359fd4d0497b25b&mpshare=1&scene=23&srcid=0531Lxem2QT4IOXaVI1Pnwsq&sharer_sharetime=1622450396860&sharer_shareid=86516ada3076479fca7f4f9b084710e2#rd)
+~~【报名截止: 2021.6.28】[上海交通大学电子信息与电气工程学院2022级研究生优才夏令营通知](https://mp.weixin.qq.com/s?__biz=MzU5MTE1MDg4OQ==&mid=2247492870&idx=1&sn=e251e523d12fa5e1eed47b96c368b0c0&chksm=fe31cf40c9464656825d1fecef9a71f756143c34be72cc4d31b90155eb649359fd4d0497b25b&mpshare=1&scene=23&srcid=0531Lxem2QT4IOXaVI1Pnwsq&sharer_sharetime=1622450396860&sharer_shareid=86516ada3076479fca7f4f9b084710e2#rd)~~
 
-【报名截止: 2021.6.28】[上海交通大学“2021软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=19207)
+~~【报名截止: 2021.6.28】[上海交通大学“2021软件学院优才夏令营”的通知](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=19207)~~
 
 
 
@@ -148,7 +148,7 @@
 
 ~~【第一轮报名截止至5月31日】[哈工大海量数据计算研究中心面向全国高校推免生招收2022级研究生（含直博生）](https://mp.weixin.qq.com/s?__biz=MzU0MzYzNDQ2Ng==&mid=2247484892&idx=1&sn=733445fddcf6fa9372d647d14590ccee&chksm=fb092091cc7ea9877072aa02107d5984475f5ce5260d2ae9f044d315802fbfef20289d6a38a5&mpshare=1&scene=23&srcid=0512SujeJ9Sue1NEqnX0EzpB&sharer_sharetime=1620780091771&sharer_shareid=f11b613486ea49d65c04bc821bbd6df1#rd)~~
 
-【报名截止: 2021.6.28】[哈尔滨工业大学（深圳）计算机科学与技术学院 2022年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/2949.htm)
+~~【报名截止: 2021.6.28】[哈尔滨工业大学（深圳）计算机科学与技术学院 2022年全国优秀大学生学术夏令营的通知](http://cs.hitsz.edu.cn/info/1029/2949.htm)~~
 
 【报名截止: 2021.7.4】[哈工大（威海）“英才计划”夏令营暨优秀硕士生源选拔活动的通知](https://www.hitwh.edu.cn/2021/0617/c1309a139632/page.htm)
 
@@ -238,7 +238,7 @@
 
 【报名截止: 2021.7.20】[PALM实验室2022年入学研究生报名须知](http://palm.seu.edu.cn/application.html)
 
-【报名截止: 2021.7.18 24:00】[东南大学网络空间安全学院2021年优秀大学生夏令营活动通知](https://cyber.seu.edu.cn/2021/0625/c18223a375965/page.htm)
+【报名截止: 2021.7.18】[东南大学网络空间安全学院2021年优秀大学生夏令营活动通知](https://cyber.seu.edu.cn/2021/0625/c18223a375965/page.htm)
 
 
 
