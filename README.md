@@ -184,6 +184,12 @@
 
 
 
+# 西安电子科技大学
+
+【报名截止：2021.7.17】[西安电子科技大学计科院关于举办2022年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/hYAQ6HFRLO8ni3A0aUhAxg)
+
+
+
 # 华东师范大学
 
 ~~【报名截止: 2021.6.19】[计算机科学与技术学院2021年优秀大学生夏令营通知](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2021050920189233123538)~~
