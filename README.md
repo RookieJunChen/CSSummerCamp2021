@@ -162,7 +162,7 @@
 
 【报名截止: 无截止日期】[国防科技大学2021年优秀大学生夏令营活动预告](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1149)
 
-【报名截止: 2021.7.8】[国防科技大学计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1155)
+~~【报名截止: 2021.7.8】[国防科技大学计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1155)~~
 
 【报名截止: 2021.7.15】[国防科技大学智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1156)
 
