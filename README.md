@@ -385,7 +385,7 @@
 
 # 华南理工大学
 
-【报名截止：2021.7.10】[华南理工大学计算机学院 2021年优秀大学生夏令营活动报名通知](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)
+~~【报名截止：2021.7.10】[华南理工大学计算机学院 2021年优秀大学生夏令营活动报名通知](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)~~
 
 ~~【报名截止：2021.7.1】[华南理工大学软件学院 2021年优秀大学生夏令营活动报名通知](https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx)~~
 
