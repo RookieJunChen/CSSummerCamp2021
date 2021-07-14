@@ -128,7 +128,7 @@
 
 ~~【报名截止: 2021.6.27】[中国科学院信息工程研究所2021年“网络空间安全技术”全国优秀大学生夏令营报名通知](https://mp.weixin.qq.com/s?__biz=MzAxMDMzNTc0NQ==&mid=2247485342&idx=1&sn=a99e3da5f85ae62b855b940301d62321&chksm=9b50a4f0ac272de6e7ad54fab3643ea6b9adf28011253afbdb1449e4ddc6b7d167f41c1ffae2&mpshare=1&scene=23&srcid=0526PaQyZVS4UiSt66Wd2dna&sharer_sharetime=1622022834774&sharer_shareid=3e6150ce198bbc0a040fcb9375f5e721#rd)~~
 
-【报名截止: 2021.7.11】[中国科学院软件研究所2021年全国大学生“软件与网络”夏令营通知](http://www.is.cas.cn/yjsjy2016/zsxx2016/202106/t20210611_6082351.html)
+~~【报名截止: 2021.7.11】[中国科学院软件研究所2021年全国大学生“软件与网络”夏令营通知](http://www.is.cas.cn/yjsjy2016/zsxx2016/202106/t20210611_6082351.html)~~
 
 
 
@@ -234,7 +234,7 @@
 
 # 华中科技大学
 
-【报名截止:2021.7.13】[网络空间安全学院2021年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/2261.htm)
+~~【报名截止:2021.7.13】[网络空间安全学院2021年优秀大学生夏令营通知](http://cse.hust.edu.cn/info/1029/2261.htm)~~
 
 ~~【报名截止:2021.6.25】[人工智能与自动化学院“全国优秀大学生暑期夏令营”报名申请](https://mp.weixin.qq.com/s/PfGfRHzWZ77G04IuUuTdZQ)~~
 
