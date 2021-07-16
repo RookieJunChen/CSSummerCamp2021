@@ -164,7 +164,7 @@
 
 ~~【报名截止: 2021.7.8】[国防科技大学计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1155)~~
 
-【报名截止: 2021.7.15】[国防科技大学智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1156)
+~~【报名截止: 2021.7.15】[国防科技大学智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=1156)~~
 
 
 
