@@ -186,7 +186,7 @@
 
 # 西安电子科技大学
 
-【报名截止：2021.7.17】[西安电子科技大学计科院关于举办2022年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/hYAQ6HFRLO8ni3A0aUhAxg)
+~~【报名截止：2021.7.17】[西安电子科技大学计科院关于举办2022年全国优秀大学生暑期夏令营的通知](https://mp.weixin.qq.com/s/hYAQ6HFRLO8ni3A0aUhAxg)~~
 
 
 
