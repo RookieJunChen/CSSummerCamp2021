@@ -2,11 +2,11 @@
 
 ​	关于**2021年CS保研夏令营通知公告**的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020)）
 
-​	**2021预推免仓库：**[CSYuTuiMian2021](https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021)
+​	**保研夏令营已经基本结束，在这里恭喜已经上岸的同学；没拿到offer的同学也不必灰心，移步[2021预推免仓库](https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021)，预推免还有很多机会！**
 
 ​	另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/richardodliu/CS-BAOYAN)
 
-#### 	2021保研夏令营已经逐渐拉开序幕，预祝同学们都能精彩发挥、心想事成、上岸梦校！
+
 
 ## [夏令营开奖情况](https://docs.qq.com/sheet/DVXJaRHhQY3N1Um5B)
 
@@ -244,7 +244,7 @@
 
 # 东南大学
 
-【报名截止: 2021.7.20】[PALM实验室2022年入学研究生报名须知](http://palm.seu.edu.cn/application.html)
+~~【报名截止: 2021.7.20】[PALM实验室2022年入学研究生报名须知](http://palm.seu.edu.cn/application.html)~~
 
 ~~【报名截止: 2021.7.18】[东南大学网络空间安全学院2021年优秀大学生夏令营活动通知](https://cyber.seu.edu.cn/2021/0625/c18223a375965/page.htm)~~
 
